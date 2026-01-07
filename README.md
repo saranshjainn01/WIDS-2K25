@@ -1,1 +1,2 @@
 # WIDS-2K25
+I cleaned and preprocessed the hotel_bookings.csv dataset, encoded and scaled relevant features, and applied PCA to reduce dimensionality. PCA was performed using both scikit-learn and a manual implementation, with results compared and validated. The analysis showed that a few principal components capture most of the variation in hotel booking data, highlighting key underlying patterns.
